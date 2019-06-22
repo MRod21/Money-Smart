@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  starting_fund: 1
+  funds_spent: 1
+  ending_fund: 1
+  user: one
+
+two:
+  starting_fund: 1
+  funds_spent: 1
+  ending_fund: 1
+  user: two
